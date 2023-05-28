@@ -18,7 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samusa099&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="samusa099" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samusa099&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="samusa099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samusa099&theme=dark" alt="samusa099" /></p>
 # 📊 GitHub Stats:
@@ -37,3 +36,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Samusa099&icon=0&color=8)](https://visitcount.itsvg.in)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samusa099&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="samusa099" /></p>
+
