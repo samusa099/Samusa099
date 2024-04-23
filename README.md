@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samusa099&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="samusa099" /></p>
-
+<a href="https://gitroll.io/profile/uaq4wt3BHdoPSjIUrjgVY8SKww2q1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uaq4wt3BHdoPSjIUrjgVY8SKww2q1" alt="GitRoll Profile Badge"/></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samusa099&theme=dark" alt="samusa099" /></p>
 # 📊 GitHub Stats:
